@@ -13,7 +13,7 @@ const DocXchangeFullPrototype = () => {
 
   // Applications the client has
   const applications = [
-    { id: 'onboarding', name: 'Business Onboarding', type: 'Commercial Onboarding', status: 'In Progress', date: 'Started Jan 15, 2026', taskCount: 3, entity: 'Port City Coffee' },
+    { id: 'onboarding', name: 'Business Checking Account', type: 'Commercial Onboarding', status: 'In Progress', date: 'Started Jan 15, 2026', taskCount: 3, entity: 'Port City Coffee' },
     { id: 'cre-loan', name: 'CRE Loan', type: 'Commercial Real Estate', status: 'In Progress', date: 'Started Feb 1, 2026', taskCount: 2, entity: 'Port City Coffee' },
     { id: 'loc', name: 'Line of Credit', type: 'Revolving Credit', status: 'Submitted', date: 'Started Jan 28, 2026', taskCount: 0, entity: 'Port City Coffee' },
   ];
